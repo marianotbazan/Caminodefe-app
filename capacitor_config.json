@@ -1,0 +1,7 @@
+{
+  "appId": "com.marianobazan.caminodefe",
+  "appName": "Camino de Fe",
+  "webDir": "www",
+  "ios": { "contentInset": "never", "backgroundColor": "#171c2e" },
+  "android": { "backgroundColor": "#171c2e" }
+}
